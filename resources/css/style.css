@@ -1,30 +1,35 @@
-html {
-  font-family: Verdana;
+
+/* Headings */
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: black;
   text-align: center;
 
 }
 
-h1 {
-  font-family: Verdana;
+h4 {
+  font-size: 21px;
+  color: gray;
+}
+/* classes */
+.header_main {
   font-size: 50px;
   font-weight: normal;
   color: white;
-  text-align: center;
-  background: black;
+
 }
-h2 {
-  font-family: Verdana;
+.header_secondary {
   font-size: 42px;
   font-weight: 300;
   color: white;
 }
-h3 {
-  font-family: Verdana;
+
+header_subheader {
   font-size: 21px;
   color: gray;
 }
-p a{
+
+.link_cta {
 color: aquamarine;
 font-size: 16px;
 
