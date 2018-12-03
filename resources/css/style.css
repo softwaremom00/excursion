@@ -7,10 +7,6 @@ body {
 
 }
 
-h4 {
-  font-size: 21px;
-  color: gray;
-}
 /* classes */
 .header_main {
   font-size: 50px;
@@ -24,7 +20,7 @@ h4 {
   color: white;
 }
 
-header_subheader {
+.header_subheader {
   font-size: 21px;
   color: gray;
 }
@@ -34,16 +30,7 @@ color: aquamarine;
 font-size: 16px;
 
 }
-.top {
-  align-items: center;
-  margin-top: 20px;
-}
-.middle {
-  align-items: middle;
-}
-.bottom {
-  margin:10px;
-}
+
 
 .footer {
   text-align: right;
